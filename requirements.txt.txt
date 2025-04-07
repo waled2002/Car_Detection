@@ -1,7 +1,0 @@
-flask
-flask-cors
-ultralytics
-torch
-numpy
-requests
-gdown
