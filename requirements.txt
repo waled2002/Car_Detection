@@ -5,3 +5,4 @@ torch
 numpy
 requests
 gdown
+huggingface_hub
