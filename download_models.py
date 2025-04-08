@@ -4,9 +4,9 @@ from pathlib import Path
 
 # روابط الموديلات من Google Drive
 models = {
-    "Car_Brand/best.pt": "https://drive.google.com/uc?export=download&id=1mO0j1r6WOrNe_nRkvohOyQdJ4-5SLMxx",
-    "Car_Color/best.pt": "https://drive.google.com/uc?export=download&id=146M_FEu2ta7jUg9x1BvNub6gYEDVv4rg",
-    "Car_Plate/best.pt": "https://drive.google.com/uc?export=download&id=1228W1abZQJodiUgVSTFRzkybNFmmmGyS",
+    "Car_Brand/best.pt": "https://huggingface.co/Waled2002/car-detection-models/resolve/main/Car_Brand/best.pt",
+    "Car_Color/best.pt": "https://huggingface.co/Waled2002/car-detection-models/resolve/main/Car_Color/best.pt",
+    "Car_Plate/best.pt": "https://huggingface.co/Waled2002/car-detection-models/resolve/main/Car_Plate/best.pt",
 }
 
 # دالة لتحميل الموديلات من Google Drive
