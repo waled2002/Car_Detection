@@ -1,8 +1,6 @@
 #!/bin/bash
-
-echo "Downloading models from Google Drive..."
+pip install -r requirements.txt
 python download_models.py
-
-echo "Starting Flask API..."
 python api.py
+
 
