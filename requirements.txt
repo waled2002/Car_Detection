@@ -1,8 +1,8 @@
-flask==2.1.2
-flask-cors==3.1.1
-ultralytics==8.0.34
-torch==1.10.0
-numpy==1.21.2
-requests==2.26.0
-gdown==4.4.0
-huggingface_hub==0.10.0
+flask
+flask-cors
+ultralytics
+torch
+numpy
+requests
+gdown
+huggingface_hub
